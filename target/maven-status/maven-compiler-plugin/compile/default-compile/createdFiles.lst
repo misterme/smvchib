@@ -1,0 +1,4 @@
+com\sivalabs\contacts\Contact.class
+com\sivalabs\contacts\ContactFormValidator.class
+com\sivalabs\contacts\ContactsDAO.class
+com\sivalabs\contacts\ContactsControllers.class
